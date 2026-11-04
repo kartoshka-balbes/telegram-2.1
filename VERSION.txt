@@ -1,0 +1,1 @@
+Сборка от 04.11.2026 10:07. Есть public/img/box.jpg и public/sounds/win.mp3 - это актуальная версия.

@@ -1,0 +1,6 @@
+{
+  "name": "Телеграм Пародия",
+  "description": "Интерактивное приложение-пародия на Telegram с набором абсурдных инструментов, динамическими чатами и шуточными функциями.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
